@@ -47,6 +47,7 @@ After training, a large number of samples are generated using the trained genera
 Since GANs do not explicitly provide a probability density function, Kernel Density Estimation(KDE) is applied to the generated samples to approximate the PDF.
 
 The resulting plot represents the learned probability density of the transformed variable z.
+<img width="708" height="470" alt="download" src="https://github.com/user-attachments/assets/a5dafd31-82f5-4160-8270-c651fac8bd72" />
 
 ---
 
